@@ -4,7 +4,7 @@ title: IPAC'24
 event: 15th International Particle Accelerator Conference (IPAC2024)
 event_url: https://indico.jacow.org/event/63/contributions/3278/author/19870
 
-location: Tennessee
+location: Tennessee, US
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+#url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+#url_slides: 'https://slideshare.net'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
