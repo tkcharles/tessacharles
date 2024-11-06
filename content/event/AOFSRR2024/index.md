@@ -12,8 +12,8 @@ location: Melbourne, Australia
 #  postcode: '94305'
 #  country: United States
 
-summary: Lecture on 'Basics of Light Sources'
-abstract: Lecture on 'Basics of Light Sources'
+summary: Asia-Oceania Forum for Synchrotron Radiation Research (AOFSRR) School 2024. Lecture on 'Basics of Light Sources'
+abstract: Asia-Oceania Forum for Synchrotron Radiation Research (AOFSRR) School 2024. Lecture on 'Basics of Light Sources'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

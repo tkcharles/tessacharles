@@ -42,7 +42,7 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'static/uploads/IPAC24_comissioning_optics_TKCharles.pdf'
+url_pdf: `static/uploads/IPAC24_comissioning_optics_TKCharles.pdf`
 url_slides: ''
 url_video: ''
 
