@@ -42,7 +42,7 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: 'static/uploads/IPAC24_comissioning_optics_TKCharles.pdf'
 url_slides: ''
 url_video: ''
 
@@ -59,5 +59,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - IPAC2024
 ---
