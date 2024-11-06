@@ -73,6 +73,16 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: collection
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 2
  # - block: collection
  #   id: news
  #   content:
