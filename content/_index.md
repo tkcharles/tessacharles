@@ -73,6 +73,18 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: markdown
+    content:
+      title: 'PhD Projects'
+       subtitle: ''
+      text: |-
+         Below are some honours, masters, or PhD project in acceleator physics. If you are intereste in pursing an accelerator physics, feel free to contact me. 
+#
+ #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+  #      
+  #      Please reach out to collaborate 😃
+    design:
+      columns: '1'
   - block: collection
     id: projects
     content:
