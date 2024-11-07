@@ -43,7 +43,7 @@ links:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: 'https://tkcharles.github.io/tessacharles/uploads/IPAC24_comissioning_optics_TKCharles.pdf'
-url_slides: ''
+url_slides: 'https://tkcharles.github.io/tessacharles/uploads/IPAC24_comissioning_optics_TKCharles.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
