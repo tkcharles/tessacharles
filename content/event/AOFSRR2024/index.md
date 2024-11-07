@@ -42,8 +42,8 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'https://tkcharles.github.io/tessacharles/uploads/AOFSRR2024_basics_of_light_sources_TKCharles_final.pdf'
-url_slides: ''
+url_pdf: ''
+url_slides: 'https://tkcharles.github.io/tessacharles/uploads/AOFSRR2024_basics_of_light_sources_TKCharles_final.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
