@@ -1,5 +1,5 @@
 ---
-title: AOFSRR School 
+title: Asia-Oceania Forum for Synchrotron Radiation Research (AOFSRR) School 2024
 
 event:  Asia-Oceania Forum for Synchrotron Radiation Research (AOFSRR) School 2024
 event_url: https://events01.synchrotron.org.au/event/183/timetable/
@@ -13,7 +13,7 @@ location: Melbourne, Australia
 #  country: United States
 
 summary: Asia-Oceania Forum for Synchrotron Radiation Research (AOFSRR) School 2024. Lecture on 'Basics of Light Sources'
-abstract: Asia-Oceania Forum for Synchrotron Radiation Research (AOFSRR) School 2024. Lecture on 'Basics of Light Sources'
+abstract: Asia-Oceania Forum for Synchrotron Radiation Research (AOFSRR) School 2024. Lecture on the 'Basics of Light Sources' covering synchrotron light source history, a few key accelerator physics defintions, and synchrotron radiation generation.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
